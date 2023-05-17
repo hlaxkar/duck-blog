@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "lorem impsum....",
+      "author": "Duck",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party!",
+      "body": "lorem impsum....",
+      "author": "Akira",
+      "id": 2
+    },
+    {
+      "title": "Web dev app tips",
+      "body": "lorem impsum....",
+      "author": "Duck",
+      "id": 3
+    }
+  ]
+}
